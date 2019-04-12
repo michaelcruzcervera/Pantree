@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791100954915",
+    "firebase_url": "https://pantree-11e76.firebaseio.com",
+    "project_id": "pantree-11e76",
+    "storage_bucket": "pantree-11e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791100954915:android:3d11766fa702282d",
+        "android_client_info": {
+          "package_name": "com.example.pantree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791100954915-dstka22g3i617jsafbbj8pgtho9hdmde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pantree",
+            "certificate_hash": "83ecff278f290de0f4afe5e0fa49d5cdfb238eac"
+          }
+        },
+        {
+          "client_id": "791100954915-alqusu8cqiv5u249f0jb93lki45cgkmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe5v_wTXGCMKOFcIzCYworHBsxWpQnRnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791100954915-alqusu8cqiv5u249f0jb93lki45cgkmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

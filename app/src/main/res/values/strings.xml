@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pantree</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Create Account</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="action_open_signup">Don\'t have an account? Sign Up</string>
+    <string name="desc_image_logo">Application Logo</string>
+    <string name="desc_prompt_email">Input Email</string>
+    <string name="desc_prompt_password">Input Password</string>
+    <string name="prompt_name">Name</string>
+    <string name="action_open_signin">Have an account? Sign In</string>
+    <string name="con_signup">Sign up Complete</string>
+    <string name="error">An Error has occured</string>
+    <string name="error_email_registered">Email is already in use</string>
+</resources>
