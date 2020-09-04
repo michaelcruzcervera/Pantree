@@ -1,2 +1,2 @@
 # Pantree
-Android Mobile application for pantry tracking and recipie sharing.
+Android Mobile application for pantry tracking and recipe sharing.
