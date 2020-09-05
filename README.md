@@ -1,3 +1,12 @@
+<img align="right" src="Figures/icon.png?raw=true" alt="icon" width="20%" height="20%">
+<br/>
+
+# Pantree: Mobile Cooking Assistant Application
+
+<br/>
+<br/>
+<br/>
+
 This report documents the research, design and development that went into the Android application Pantree. A cooking assistant app with the aim of providing a recipe sharing platform, with pantry tracking and ingredient-based recipe searching. 
 
 Using these features, I hope to tackle two problems, food waste by using up the left-over ingredients that would otherwise go to waste, and the decrease of home cooking over the last 30 years. Home cooking is a vital component to a healthy balanced diet, in a world where fast food and processed foods are an easily accessible commodity, Pantree attempts to simplify the process of cooking and its organisational aspect to therefore motivate people to start cooking at home.
@@ -81,6 +90,18 @@ In Figure 14 we can see the structure of the database and the data it contains, 
   <img src="Figures/Database.png?raw=true" alt="Database Entity Relationship Diagram" width="80%" height="80%">
 </p>
 
+# CREDITS
+
+Vegetables free icon made by Freepik from www.flaticon.com
+Fish free icon made by Freepik from www.flaticon.com
+Oil bottle free icon made by Freepik from www.flaticon.com
+Meat free icon made by Freepik from www.flaticon.com
+Salt free icon made by Freepik from www.flaticon.com
+Round bread free icon made by Freepik from www.flaticon.com
+Wardrobe free icon made by Freepik from www.flaticon.com
+Apple free icon made by Smashicons from www.flaticon.com
+Carrot free icon made by Smashicons from www.flaticon.com
+Milk free icon made by Smashicons from www.flaticon.com
 
 ## Libraries Used
 - Glide by Sam Judd
