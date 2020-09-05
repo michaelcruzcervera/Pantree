@@ -3,10 +3,6 @@
 
 # Pantree: Mobile Cooking Assistant Application
 
-<br/>
-<br/>
-<br/>
-
 This report documents the research, design and development that went into the Android application Pantree. A cooking assistant app with the aim of providing a recipe sharing platform, with pantry tracking and ingredient-based recipe searching. 
 
 Using these features, I hope to tackle two problems, food waste by using up the left-over ingredients that would otherwise go to waste, and the decrease of home cooking over the last 30 years. Home cooking is a vital component to a healthy balanced diet, in a world where fast food and processed foods are an easily accessible commodity, Pantree attempts to simplify the process of cooking and its organisational aspect to therefore motivate people to start cooking at home.
